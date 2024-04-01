@@ -1,3 +1,5 @@
+package com.codegym;
+
 import java.util.Scanner;
 
 public class Main {
